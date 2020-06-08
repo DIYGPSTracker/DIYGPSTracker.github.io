@@ -1,0 +1,14 @@
+title: DIY GPS App bundle
+author: Csaba Toth
+email: csaba.toth.us@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  About Do-It-Yourself GPS App bundle
+
+twitter_username: tocsa2
+github_username:  MrCsabaToth
+
+google_analytics: UA-86563829-3
+
+sass:
+    style: compressed
+theme: jekyll-theme-minimal
