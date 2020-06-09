@@ -2,6 +2,8 @@
 layout: post
 ---
 
+These are a non-exhaustive list of steps to install the app suite for your use-case and optionally turn on push notifications.
+
 1. Setting up **Firebase Project**
    0. Register a Google account if you don't have one. Log in to your browser with your Google account.
    1. Go to [Firebase console](https://console.firebase.google.com/) and follow this tutorial until 1:20 (don't create iOS app).
