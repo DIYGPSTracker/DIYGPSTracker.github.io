@@ -2,6 +2,8 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
+redirect_from:
+  - /privacypolicy/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

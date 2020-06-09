@@ -9,6 +9,13 @@ github_username:  MrCsabaToth
 
 google_analytics: UA-86563829-3
 
+exclude:
+  - "LICENSE"
+  - "README.md"
+  - ".gitignore"
+plugins:
+  - jekyll-redirect-from
+
 sass:
     style: compressed
 theme: jekyll-theme-minimal
