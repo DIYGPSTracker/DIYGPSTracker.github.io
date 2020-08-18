@@ -76,7 +76,7 @@ redirect_from:
 
     <div class="row">
         <div class="col s12">
-            Since this app bundle's mindest is Do-It-Yourself, it requires and assumes technical expertise on the user's end, and since the user provisions their own data and parts of the system, the creator is not responsible by any damage or loss whatsoever caused by the app bundle. The app bundle doesn't have any guarantee about locating any trackable assets. The Android eco-system can be complex, and even simple things like not turning off battery optimization for the tracker or if it's backrgound could cause the tracking reporting to stop.
+            Since this app bundle's mindset is Do-It-Yourself, it requires and assumes technical expertise on the user's end, and since the user provisions their own data and parts of the system, the creator is not responsible for any damage or loss whatsoever caused by the app bundle. The app bundle doesn't have any guarantee about locating any trackable assets. The Android ecosystem can be complex, and even simple things like not turning off battery optimization for the tracker or if it's background could cause the tracking reporting to stop.
         </div>
     </div>
 </div>
