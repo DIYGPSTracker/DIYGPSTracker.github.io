@@ -39,7 +39,7 @@ redirect_from:
 
     <div class="row">
         <div class="col s12">
-            The application uses standard methods and APIs to connect to, send data and receive data from the user's own managed Firebase Firestore and FCM. Please follow best-practices and secure your own data as much as you can since that's out of the creator's jurisdiction and the creator is not responsible for any damages.
+            The application uses standard methods and APIs to connect to, send data and receive data from the user's own managed Firebase Firestore and FCM. Please follow best-practices and secure your own data as much as you can since that's out of the creator's jurisdiction and the creator is not responsible for any damages. The SharedPreferences data is encrypted by Jetpack Security features.
         </div>
     </div>
 </div>
