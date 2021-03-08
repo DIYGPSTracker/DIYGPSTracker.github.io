@@ -9,6 +9,17 @@ github_username:  MrCsabaToth
 
 google_analytics: UA-86563829-5
 
+tracker:
+  app_url: https://play.google.com/store/apps/details?id=dev.csaba.diygpstracker
+  src_url: https://github.com/DIYGPSTracker/DIYGPSTracker
+
+manager:
+  app_url: https://play.google.com/store/apps/details?id=dev.csaba.diygpsmanager
+  src_url: https://github.com/DIYGPSTracker/DIYGPSManager
+
+messaging:
+  src_url: https://github.com/DIYGPSTracker/DIYGPSMessaging
+
 exclude:
   - "LICENSE"
   - "README.md"
