@@ -1,6 +1,7 @@
 # Landing page for DIY GPS Tracker android app bundle
 
 [Android Store link for DIY GPS Tracker][1]
+
 [Android Store link for DIY GPS Manager][2]
 
 Check out source code for the apps and also the FCM Cloud Function in this GitHub organization.
